@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8b3176;
+}
+
+.Todo-list {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: rgba(168, 22,118, 1);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+.pink-container {
+    background-color: rgba(255, 16, 240, 1);
+    border: 2px solid white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.pink-container p {
+    margin: 0;
+}
