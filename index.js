@@ -44,7 +44,6 @@ let deleteBtn = document.createElement("button");
         taskList.removeChild(task);
     }
 
-function capitalizeFirstLetter(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-}
 });
+// i did funtion for add and sort calling them by their id 
+//when i added my list i did a  delete button where it  will appear with with the list that i added and delete when you no longer needing it   
